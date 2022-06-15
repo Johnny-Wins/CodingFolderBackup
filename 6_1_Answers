@@ -1,0 +1,54 @@
+Part I
+make a directory called first
+	mkdir first
+change directory to the first folder
+	cd first
+create a file called person.txt
+	touch person.txt
+change the name of person.txt to another.txt
+	mv person.txt another.txt
+make a copy of the another.txt file and call it copy.txt
+	cp another.txt copy.txt
+remove the copy.txt file
+	rm copy.txt
+make a copy of the first folder and call it second
+	cd ..
+	cp first second
+delete the second folder
+	rm -rf second
+
+
+Part II
+What does the man command do? Type in man rm. How do you scroll and get out?
+	The command displays a manual which explains how to use a terminal command. To scroll, you use the up and down arrows. To escape, you type "q".
+	
+Look at the man page for ls. What does the -l flag do? What does the -a flag do?
+	The -l flag causes ls to use a long listing format. The -a flag causes it to show all entries, including those that start with ".".
+		
+How do you jump between words in the terminal?
+	Hold cntrl and use the left and right arrows.
+	
+How do you get to the end of a line in terminal?
+	Cntrl+e
+
+How do you move your cursor to the beginning in terminal?
+	Cntrl+a
+	
+How do you delete a word (without pressing backspace multiple times) in terminal?
+	Option+delete
+
+What is the difference between a terminal and shell?
+	The terminal is the program or device that lets you interact with your computer through text; the shell is the underlying program that interprets text commands into useable instructions for the computer. So, a shell could be accessed by multiple different types of terminal.
+
+What is an absolute path?
+	The full path that leads the computer to a given file or directory, starting at the beginning.
+
+What is an relative path?
+	The path from the directory you're currently in to a given file.
+
+What is a flag? Give three examples of flags you have used.
+	A flag is a modifier to a terminal command. For example, the ls command can show hidden files when -a is used or display a long-form list format if -l is used, and rm can remove folders if -rf is used.
+
+What do the r and f flags do with the rm command?
+	They allow you to remove all the contents of a folder and then the folder itself.
+
