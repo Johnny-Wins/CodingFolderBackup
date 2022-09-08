@@ -84,24 +84,23 @@ class StoryList {
     console.log(user.loginToken);
 
     console.log(newStory);
-    await axios({
+    
+    const returnedObject = await axios({
       url:`${BASE_URL}/stories`,
-      method: "POST",
-      params:{
+      method: "POST", 
+      data:{
         token: user.loginToken,
         story: newStory,
       }
     });
 
-    return await axios({
-      url: `${BASE_URL}/user`,
-      method: "GET",
-      params:{
-        username: user.username
-      }
-    }).stories[stories.length];
+    console.log(returnedObject);
+ 
+    const {storyId, title, author, url, username, createdAt} = returnObject.data.story;
 
+    const resultStory = New Story(storyId, title, author, url, username, createdAt);
 
+    return resultStory;
 
 
   }
