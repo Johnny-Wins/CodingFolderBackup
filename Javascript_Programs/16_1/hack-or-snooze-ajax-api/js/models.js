@@ -75,9 +75,10 @@ class StoryList {
   
 
   async addStory(user, newStory) {
-    // UNIMPLEMENTED: complete this function!
+    //adds a new story, associated with the current logged in User, based on the Newstory
+    //object passed to the function
 
-    console.log("I am being called");
+    console.log("addStory called");
 
     console.log(user);
 
@@ -96,9 +97,9 @@ class StoryList {
 
     console.log(returnedObject);
  
-    const {storyId, title, author, url, username, createdAt} = returnObject.data.story;
+    const {storyId, title, author, url, username, createdAt} = returnedObject.data.story;
 
-    const resultStory = New Story(storyId, title, author, url, username, createdAt);
+    const resultStory = new Story(storyId, title, author, url, username, createdAt);
 
     return resultStory;
 

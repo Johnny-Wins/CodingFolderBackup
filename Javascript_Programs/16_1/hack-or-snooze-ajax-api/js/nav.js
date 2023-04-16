@@ -34,3 +34,13 @@ function updateNavOnLogin() {
   $navLogOut.show();
   $navUserProfile.text(`${currentUser.username}`).show();
 }
+
+let submitButton = document.querySelector("#nav-submit");
+
+submitButton.addEventListener("click", toggleStoryForm);
+
+//When a user clicks on the submit button, reveal the form to submit a new story
+
+function toggleStoryForm(){
+  document.querySelector("#storyForm").classList.toggle("hidden");
+}
