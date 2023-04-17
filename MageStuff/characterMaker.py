@@ -27,9 +27,41 @@ Step 1: Character Concept
         geek.
 
     Affiliation
+
+        9 traditions
+
+        Technocracy
+
+        Diasopra
     
     Essence
+
+        The strength and type of avatar you have (as expressed through the avatar background)
+    
     Archetypes
 
+        Nature - A character's innermost self and driving motivations
+
+        Demeanor - A character's outward presentation and social role
+
 Step 2: Select Attributes
+
+    Each attribute starts at 1
+
+    The three categories [Physical, Social, Mental] are designated as Primary, Secondary, and Tertiary
+
+    Primary gets to assign 7 points
+    Secondary gets to assign 5 points
+    Tertiary gets to assign 3 points
+
+    Rate Physical Traits: Strength, Dexterity, Stamina.
+    Rate Social Traits: Charisma, Manipulation, Appearance.
+    Rate Mental Traits: Perception, Intelligence, Wits.
+
+Step 3: Select Abilities
+
+    Prioritize Abilities as above (13/ 9/ 5).
+    Choose Talents, Skills, Knowledges.
+    Check Secondary Abilities for specialized Traits.
+    No Ability may be higher than 3 at this stage.
 '''
