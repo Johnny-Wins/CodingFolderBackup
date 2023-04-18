@@ -1,0 +1,240 @@
+'''This program can create characters for the game Mage: The Awakening.
+
+It will include a description of this process, and then a system to carry it out.
+
+Step 1: Character Concept
+    Concept
+
+        • Activist - Journalist, blogger, lobbyist, malcontent.
+        • Artist - Writer, dancer, painter, musician.
+        • Athlete - Team player, personal trainer, physical artisan, thrill-seeker.
+        • Caretaker - Parent, teacher, social worker, medical professional.
+        • Criminal - Gang member, con artist, drug dealer, thief.
+        • Executive - Tycoon, manager, facilitator, power-player. 
+        • Guardian - Cop, security guard, conspiracy theorist, social watchdog. 
+        • Intellectual - Scholar, professor, philosopher, social critic.
+        • Kid - Child, student, innocent, gutter-punk. 
+        • Laborer - Factory worker, sales clerk, roadie, construction worker.
+        • Mystic - Priest/ ess, hermit, shaman, enlightened weirdo.
+        • Night-Owl - Bartender, bouncer, club-goer, celebrity.
+        • Rebel - Vagabond, outlaw, urban tribalist, subculture devotee. 
+        • Technician - Mechanic, lab tech, craftsman, computer 
+        geek.
+
+    Affiliation
+
+        9 traditions
+
+            • Akashayana/Akashic Brotherhood - Masters of mind, body, 
+            and spirit through the Arts of personal discipline. 
+            Affinity Spheres: Mind or Life
+            • Celestial Chorus - Sacred singers who give a human Voice 
+            to the Divine Song. 
+            Affinity Spheres: Prime, Forces, or Spirit
+            • Cult of Ecstasy/ Sahajiya - Visionary seers who transcend 
+            limitations through sacred experience. 
+            Affinity Spheres: Time, Life, or Mind
+            • Dreamspeakers/ Kha'vadi - Preservers and protectors of 
+            both the Spirit Ways and the Earthly cultures that have been 
+            looted, abandoned, and oppressed.
+            Affinity Spheres: Spirit, Forces, Life, or Matter 
+            • Euthanatoi /Chakravanti - Disciples of mortality who purge 
+            corruption and bring merciful release from suffering. 
+            Affinity Spheres: Entropy, Life, or Spirit
+            • Order of Hermes - Rigorous masters of High Magick and 
+            the Elemental Arts.
+            Affinity Spheres: Forces 
+            • Society of Ether/Sons of Ether - Graceful saviors of scientific 
+            potential.
+            Affinity Spheres: Matter, Forces, or Prime
+            • Verbena - Primal devotees of rough Nature and mystic blood. 
+            Affinity Spheres: Life or Forces
+            • Virtual Adepts - Reality-hackers devoted to rebooting their 
+            world.
+            Affinity Spheres: Correspondence/ Data or Forces
+
+        Technocracy
+
+            • Iteration X - Perfectors of the human machine. 
+            Affinity Spheres: Forces, Matter, or Time
+            • New World Order - Custodians of social order and global 
+            stability.
+            Affinity Spheres: Mind or Correspondence/ Data 
+            252 Mage: The Ascension 20th Anniversary Edition
+            • Progenitors - Innovators dedicated to the potential of 
+            organic life.
+            Affinity Spheres: Life or Prime
+            • Syndicate - Masters of finance, status, and the power 
+            of wealth.
+            Affinity Spheres: Entropy, Mind, or Primal Utility 
+            • Void Engineers - Explorers and protectors of 
+            extradimensional space.
+            Affinity Spheres: Dimensional Science, Correspondence, 
+            or Forces 
+
+        Diasopra
+    
+            • Ahl-i-Batin - Seers of Unity through Divine connection 
+            and subtle influence.
+            Affinity Spheres: Correspondence or Mind (never Entropy) 
+            • Bata'a - Inheritors of voodoo, dedicated to restoring a 
+            broken world. 
+            Affinity Spheres: Life or Spirit
+            • Children of Knowledge - Crowned Ones devoted to 
+            alchemical perfection.
+            Affinity Sphere: Forces, Matter, Prime, or Entropy
+            • Hollow Ones - Dark romantics laughing in the face of 
+            ruin.
+            Affinity Sphere: Any 
+            • Kopa Loei - Defenders of Nature, the Old Gods, and 
+            their culture.
+            Affinity Sphere: Any 
+            • Ngoma - African High Magi, sworn to restore what's 
+            been taken from their home and people.
+            Affinity Spheres: Life, Mind, Prime, or Spirit 
+            • Orphans - Self-Awakened mages surviving in the 
+            shadows of other sects.
+            Affinity Sphere: Any 
+            • Sisters of Hippolyta - Guardians of the Sacred Feminine. 
+            Affinity Spheres: Life or Mind
+            • Taftâni - Middle Eastern mystics shaping the gifts of 
+            Allah and the Arts of man. 
+            Affinity Spheres: Forces, Matter, Prime, or Spirit
+            • Templar Knights - Bastions of chivalry in a corrupt age.
+            Affinity Spheres: Forces, Life, Mind, or Prime
+            • Wu Lung - Preservers of heavenly wisdom, order, and 
+            nobility. 
+            Affinity Sphere: Spirit, Forces, Matter, or Life
+
+    Essence
+
+        The strength and type of avatar you have (as expressed through the avatar background)
+    
+    Archetypes
+
+        Nature - A character's innermost self and driving motivations
+
+        Demeanor - A character's outward presentation and social role
+
+Step 2: Select Attributes
+
+    Each attribute starts at 1
+
+    The three categories [Physical, Social, Mental] are designated as Primary, Secondary, and Tertiary
+
+    Primary gets to assign 7 points
+    Secondary gets to assign 5 points
+    Tertiary gets to assign 3 points
+
+    Rate Physical Traits: Strength, Dexterity, Stamina.
+    Rate Social Traits: Charisma, Manipulation, Appearance.
+    Rate Mental Traits: Perception, Intelligence, Wits.
+
+Step 3: Select Abilities
+
+    Prioritize Abilities as above (13/ 9/ 5).
+
+    Choose Talents, Skills, Knowledges.
+
+    Check Secondary Abilities for specialized Traits.
+
+    No Ability may be higher than 3 at this stage.
+
+Step 4: Select Advantages
+
+    You get 7 points worth of backgrounds
+
+        • Allies - Friends who'll help you out. 
+        • Alternate Identity - An established alias.
+        • Arcane/ Cloaking - Mysterious ability to remain unrecognized. 
+        • Avatar/ Genius - Embodiment of the Awakened/ Enlightened Self. 
+        • Backup - Agents you can call upon in emergencies.
+        • Blessing - Strange powers gave you an uncanny gift.
+        • Certification - Special permits for special things. 
+        • Chantry/ Construct - Mystic or Technocratic stronghold. 
+        • Contacts - Information sources and social networks.
+        • Cult - Group of dedicated believers. 
+        • Demesne - Personal inner dream-space. 
+        • Destiny - Inspiring sense of great purpose. 
+        • Dream/ Hypercram - Ability to tap into Abilities you don't normally possess. 
+        • Enhancement $ - Cybernetic or biotech improvements to your body. 
+        • Fame - Notoriety in the Sleeper world. 
+        • Familiar/ Companion - Non-human helper with special abilities. 
+        • Influence - Social clout in the mortal world. 
+        • Legend - A potent archetype connected to you. 
+        • Library - Access to special information. 
+        • Mentor - Awakened/ Enlightened elder with a bond to you. 
+        • Node - A place of power that's more or less in your possession. 
+        • Past Lives - Helpful memories from prior incarnations. 
+        • Patron - Influential benefactor with helpful resources. 
+        • Rank - A title of importance among the Masses. 
+        • Requisitions * - Access to Technocratic hardware. 
+        • Resources - Financial credit, cash flow, and property. 
+        • Retainers - Skilled followers. 
+        • Sanctum/ Laboratory $ - Special place to work your arts. 
+        • Secret Weapons * - Guinea-pig status with Technocratic inventors. 
+        • Spies - Information networks. 
+        • Status - Favored position among your peers.
+        • Totem $ - A powerful spirit ally. (Shamanic characters only.) 
+        • Wonder - A Talisman, Fetish, or Device that contains its own reality-bending power.
+
+    Define Focus
+
+        Paradigm
+
+            A guiding belief that unites your Avatar with your actions- things like "Chaos is inevitable" or
+            "There is good in everything that happens" or "Technology can provide for every human need" or
+            "Everything that moves lives." Pick at least one.
+
+        Practice
+
+            The kind of magic you use, broadly speaking. Like "Tarot divination" or "Demonic Sacrifice" or 
+            "Heroic channeling of godly favor" or "Hypertech." Pick at least one.
+
+        Instruments
+
+            Things you use, aesthetically and practically, when performing magic. 
+            "Mass media" "Drugs" "Weapons" "Armor" "Runes" "Fractal patterns" 
+            "Nanotechnology" "Music" "Groups of people" "Dance." Pick at least 7.
+
+Step 5: 
+
+    Assign 6 points to the spheres
+
+        • Correspondence - Understanding of the connections 
+        between places, spaces, and things. 
+        • Entropy - Study of mortality, probability, and chaos. 
+        • Forces - Command over elemental energies. 
+        • Life - Influence over organic beings and the physical 
+        structures of living bodies. 
+        • Matter - Control of inert materials, objects, and solid 
+        elemental structures. 
+        • Mind - Influence over emotions and thoughts, including 
+        the ability to project consciousness from one's physical body. 
+        • Prime - Control over primordial energies. 
+        • Spirit - Contact with Otherworldly spaces and entities; 
+        considered an Art by mystics and a Science by Technocrats, 
+        though in game terms it's all the same thing. 
+        • Time - Perception of, and influence over, temporal 
+        states and time-based phenomena. 
+
+    Set the remaining starting stats:
+
+        Arete is 1
+        Willpower is 5
+        Quintessence is equal to your avatar background
+        Paradox is 0
+
+    Spend 15 freebie points
+
+        Attributes:     5 per dot
+        Abilities:      2 per dot
+        Backgrounds:    1 per dot
+        Spheres:        7 per dot
+        Arete:          4 per dot (max. 3)
+        Willpower:      1 per dot
+        Quintessence:   1 per 4 dots
+        Merit:          varies
+        Flaw:           varies (max total 7)
+
+    Describe appearance/impression, quirks, culture, beliefs, Avatar, motivations, identity. 
