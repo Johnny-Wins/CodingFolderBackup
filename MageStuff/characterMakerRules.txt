@@ -1,7 +1,3 @@
-'''This program can create characters for the game Mage: The Awakening.
-
-It will include a description of this process, and then a system to carry it out.
-
 Step 1: Character Concept
     Concept
 
