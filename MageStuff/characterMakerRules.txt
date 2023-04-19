@@ -116,6 +116,32 @@ Step 1: Character Concept
 
         Demeanor - A character's outward presentation and social role
 
+        By their nature, natures and demeanors pull from the same list of possibilities. 
+        Characters will be inclined to believe you're motivated by your demeanor, but your nature will grant
+        you willpower when you play into it.
+
+            Activist
+            Contrary
+            Crusader
+            Hackers
+            Idealist
+            Innovator 
+            Kid
+            Loner
+            Machine
+            Mad Scientist
+            Martyr
+            Monster
+            Prophet
+            Rogue
+            Sensualist
+            Survivor
+            Traditionalist
+            Trickster
+            Visionary
+
+
+
 Step 2: Select Attributes
 
     Each attribute starts at 1

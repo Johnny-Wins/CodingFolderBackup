@@ -1,3 +1,4 @@
+from variousOptionObjects import *
 charactermode = 0 #if charactermode is 0, create a character by grabbing user inputs. If charactermode is 1, create a character randomly.
 
 def menu():
@@ -7,17 +8,17 @@ def menu():
     if charactermode == 0:
         userCharacter()
     if charactermode == 1:
-        randomcharacter()
+        randomCharacter()
 
 def userCharacter():
     charName = input("First, what is this character's name?")
     charDoc = open(charName, "xt")
 
-    charDoc.write(input())
-    charDoc.write(input())
-    charDoc.write(input())
+    
 
     charDoc.close()
 
+def randomCharacter():
+    "donothing"
 
 menu()
