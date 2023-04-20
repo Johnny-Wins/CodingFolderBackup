@@ -104,6 +104,11 @@ Step 1: Character Concept
     Essence
 
         The strength and type of avatar you have (as expressed through the avatar background)
+            
+            Dynamic
+            Pattern
+            Primordial
+            Questing
     
     Archetypes
 
